@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3159561668
+CRC: 3356063145
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4e04a531b3200afaa99b154ff3b7bf37
+    Hash: 808ba771a4b6efd85143cb8d424aab7e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: d561ab0f702ea90cfe5a5ff94107cb02
+    Hash: 6d95111c744f23be1c6364b0ea481f06
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -41,10 +41,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: cca2c8fe4912d56448b178d41b329361, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 429e58f5022f26c4381af18878db3b58, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: b68cb843037111248a5391d4914af35c, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: a1bc148546c6bb344b656bcba938fc8a, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -57,16 +53,14 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 224
   Script: {instanceID: 0}
-- Class: 225
-  Script: {instanceID: 0}
 Assets:
 - Assets/Resources/Clinician room edited 2.0.jpg
 - Assets/Resources/Outside clinician room 3.0 edited.jpg
 - Assets/Resources/Clock in machine (Counter).jpg
 - Assets/Prefabs/Teleport.prefab
 - Assets/Resources/Bucket in sink for student clinician room.jpg
-- Assets/Prefabs/Loading screen.prefab
 - Assets/Prefabs/Hotspot.prefab
+- Assets/Resources/Entrance 4.0 edited 5.0.jpg
 - Assets/SP_IXTC360/Prefabs/SP_Answer.prefab
 - Assets/BundleAsset/Counter.xml
 - Assets/Resources/Registration form (Counter).jpg
